@@ -1,13 +1,16 @@
-Thanks for using the free lite version. Please, consider purchasing the full version of Template to Enjoy All Features and Freedom to Use in Commercial Projects.
+```
+Copyright (C) 2025 Martinfpitetti25. All rights reserved.
 
-FOR FREE LITE VERSION:
-1. Commercial Use - Not Allowed
-2. Removing Footer Credit - Not Allowed
-3. Documentation - Not Available
-4. Support - Not Provided
-5. All Features/Sections - Not Available
-6. Personal Projects - Allowed
+Este software y su contenido están protegidos por derechos de autor. 
+Queda estrictamente prohibida la reproducción, distribución, modificación, 
+o cualquier otro uso del software o su contenido sin la autorización previa 
+y por escrito del titular de los derechos de autor.
+
+El uso no autorizado de este software puede dar lugar a sanciones civiles 
+y penales, y será perseguido con el máximo rigor permitido por la ley.
+
+Para obtener permiso o más información, por favor contacta a:
+[Tu correo electrónico o información de contacto]
 
 
-Best regards
-UIdeck Team
+```
